@@ -1,31 +1,10 @@
 public class HelloWorld{
-    public static void main (String[] args) {
-    int[] arr = {4, 3, 2, 1, 0};
-
-int total = 0;
-
-for (int k = 0; k <= total; k++)
-
-{
-
-if (arr[k] % 2 == 0)
-
-{
-
-total += arr[k];
+    public double calculate(double x) {
+return x + 1.5;
 
 }
-
-else
-
-{
-
-total -= arr[k];
-
-}
-
-}
-
-System.out.print(total); 
-    }
+     public void main(String []args){
+    Double d1 = new Double(7.5);
+    System.out.println(calculate(d1));
+     }
 }

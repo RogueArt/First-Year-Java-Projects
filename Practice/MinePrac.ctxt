@@ -8,4 +8,6 @@ comment3.params=
 comment3.target=double\ totalDistance()
 comment4.params=shiny\ color
 comment4.target=boolean\ Diamonds(boolean,\ char)
-numComments=5
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Book
+comment1.params=
+comment1.target=Book()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Song\r\n
+comment2.params=
+comment2.target=int\ getPages()
+comment3.params=p
+comment3.target=void\ setPages(int)
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment5.params=t
+comment5.target=void\ setTitle(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getReviews()
+comment7.params=r
+comment7.target=void\ setReviews(java.lang.String)
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=APLine
+comment1.params=a\ b\ c
+comment1.target=APLine(int,\ int,\ int)
+comment2.params=
+comment2.target=double\ getSlope()
+comment3.params=x\ y
+comment3.target=boolean\ isOnLine(int,\ int)
+numComments=4

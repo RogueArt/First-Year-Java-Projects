@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Calcs
+comment1.params=
+comment1.target=int\ add()
+comment2.params=
+comment2.target=int\ sub()
+comment3.params=
+comment3.target=int\ mult()
+comment4.params=
+comment4.target=double\ div()
+comment5.params=
+comment5.target=java.lang.String\ displayAll()
+numComments=6

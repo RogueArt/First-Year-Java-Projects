@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MinePrac
+comment1.params=x\ y\ z\ shiny
+comment1.target=MinePrac(int,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ Coordinates()
+comment3.params=
+comment3.target=double\ totalDistance()
+comment4.params=shiny\ color
+comment4.target=boolean\ Diamonds(boolean,\ char)
+numComments=5
